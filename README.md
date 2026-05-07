@@ -70,9 +70,30 @@ Traditional hiring is slow and biased. This platform uses AI to automatically pa
 ---
 ## Screenshots
 
-![Login Page](screenshots/login.png)
-![Dashboard](screenshots/dashboard.png)
+### Home Page
+![Home Page](screenshots/Home_Page.png)
 
+### Job Listing
+![Browse Jobs Page](screenshots/Browse_jobs_page.png)
 
+### AI Screening Result
+![AI screening](screenshots/Analysis_result.png)
+![AI screening](screenshots/Analysis_result_2.png)
+
+### Dashboard
+![Admin dashboard](screenshots/Admin_Dashboard.png)
+
+![Employer dashboard](screenshots/Employer_Dashboard.png)
+
+### Notification
+![Admin Notification page](screenshots/Admin_notification_page.png)
+
+### Job Management
+![Employer Job Management page](screenshots/Employer_Job_management.png)
+
+### Ranked List
+
+![Ranked List of applicants](screenshots/Ranked_list.png)
+![View Details page](screenshots/view_details_applicant.png)
 
 > Built with ❤️ to humanize the automated hiring process.
