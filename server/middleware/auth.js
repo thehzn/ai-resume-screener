@@ -12,6 +12,7 @@ exports.userAuthenticate = async(req,res,next)=>{
     })
     }
     const decode = await verifyToken(token);
+    console.log("Middleware Decoded ID:", decode?.userId);
     req.userId = decode?.userId;
     req.userRole = decode?.userRole;
 console.log("Auth Success: User ID set to", req.userId);

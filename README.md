@@ -68,7 +68,10 @@ Traditional hiring is slow and biased. This platform uses AI to automatically pa
 - Monitor platform analytics and activity
 
 ---
+## Screenshots
 
+![Login Page](screenshots/login.png)
+![Dashboard](screenshots/dashboard.png)
 
 
 
